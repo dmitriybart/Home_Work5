@@ -13,4 +13,4 @@ i++;
 }
 if (count == 4 | count == 7 | count == i) Console.Write("YES");
 
-else ("NO");
+else Console.Write ("NO");
